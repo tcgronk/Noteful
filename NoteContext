@@ -1,0 +1,11 @@
+import React, { Component } from "react"
+
+export default class NoteContext extends Component {
+  render() {
+    return (
+      <div className='NoteContext'>
+        App context
+      </div>
+    );
+  }
+}

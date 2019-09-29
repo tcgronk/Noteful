@@ -1,4 +1,3 @@
-  
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -17,5 +16,4 @@ ReactDOM.render(
     <App />
   </BrowserRouter>,
   document.getElementById('root')
-
 )
